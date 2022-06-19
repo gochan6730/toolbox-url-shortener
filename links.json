@@ -13,14 +13,18 @@
   },
   {
     "name": "andysucks",
-    "url": "https://andysucks.com"
+    "url": "https://display-parameters.com/?funfact=andy+Sucks&Also+just+to+tell+you=thanks+for+testing+the+urlshortener&this+is+not+my+website=just+a+random+website+from+google"
   },
   {
     "name": "kentonsucks",
-    "url": "https://kentonsucks.com"
+    "url": "https://display-parameters.com/?funfact=kenton+Sucks&Also+just+to+tell+you=thanks+for+testing+the+urlshortener&this+is+not+my+website=just+a+random+website+from+google"
   },
   {
     "name": "usuck",
-    "url": "https://usuck.com"
+    "url": "https://display-parameters.com/?funfact=You+Suck&Also+just+to+tell+you=thanks+for+testing+the+urlshortener&this+is+not+my+website=just+a+random+website+from+google"
   },
+  {
+    "name": "funfact",
+    "url": "https://display-parameters.com/?funfact=TKH+is+smart&Also+just+to+tell+you=thanks+for+testing+the+urlshortener&this+is+not+my+website=just+a+random+website+from+google"
+  }
 ]
