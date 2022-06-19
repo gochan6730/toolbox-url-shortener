@@ -15,7 +15,7 @@ def main():
     os.mkdir('dist')
 
     with open('dist/CNAME', 'w') as f:
-        f.write('l.inlink.ml')
+        f.write('inlink.ml')
 
     for link in links:
         html_document = html.format(url=link['url'])
